@@ -1,0 +1,9 @@
+name: BetonQuest MQTT Addon
+version: '${project.version}'
+main: me.saltyaimbotter.bqmqtt.Bqmqtt
+api-version: 1.19
+prefix: BQ-MQTT
+depend: [ BetonQuest ]
+authors: [ SaltyAimbOtter ]
+description: A BetonQuest addon that adds the ability to trigger events across servers.
+website: https://github.com/SaltyAimbOtter/BetonQuest-MQTT-Addon
